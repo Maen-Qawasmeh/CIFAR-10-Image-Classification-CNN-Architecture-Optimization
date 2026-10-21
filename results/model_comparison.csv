@@ -1,0 +1,14 @@
+Model,Val Accuracy,Val Cross-Entropy,Parameters
+Exp 11 - GAP,85.54,0.4545,304810
+Exp 14 - L2,84.1,0.4602,304810
+Exp 13 - Dropout 0.4,85.54,0.461,304810
+Exp 09 - ReduceLR,84.96,0.4652,402986
+Exp 12 - RandomContrast,84.38,0.471,304810
+Exp 10 - Deeper CNN,84.7,0.4914,550570
+Exp 08 - Deeper CNN,79.68,0.595,402986
+Exp 06 - CNN 3x3,76.78,0.6842,612042
+Exp 05 - Translation,75.2,0.7098,446826
+Exp 04 - BatchNorm,71.56,0.8077,447210
+Exp 03 - RandomFlip,72.26,0.8217,446826
+Exp 02 - Dropout,70.36,0.8739,446826
+Exp 01 - Baseline,68.78,0.9295,446826

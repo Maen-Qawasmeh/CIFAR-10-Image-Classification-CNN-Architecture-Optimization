@@ -1,0 +1,68 @@
+[
+  {
+    "filename": "cifar10-sample.png",
+    "cell_index": 5,
+    "output_index": 1,
+    "sha256": "6d3e8d64490c591d3ccdaca0d6b14daa8c098c0cf30878de5949212a092d71c6"
+  },
+  {
+    "filename": "training-class-distribution.png",
+    "cell_index": 6,
+    "output_index": 0,
+    "sha256": "6721057078f2140c6fc0994c58395a010b52b68090b7a399d8b3020f0279f0aa"
+  },
+  {
+    "filename": "baseline-training-accuracy.png",
+    "cell_index": 16,
+    "output_index": 1,
+    "sha256": "3adb5ca3df9e39c8bb5fda3dd82e186ee54dc41e7fd3852a14743a0fe7ad4238"
+  },
+  {
+    "filename": "baseline-training-loss.png",
+    "cell_index": 16,
+    "output_index": 2,
+    "sha256": "b565bd7c45c9e8238663e395be05bc8cbf6cadc744f48058ad0b323220a7fc51"
+  },
+  {
+    "filename": "exp11-first30-training-loss.png",
+    "cell_index": 82,
+    "output_index": 1,
+    "sha256": "e2d21e5aa3d2d4252a3a16bbc4768aa000ba2c892499cbc03c51891251a3d373"
+  },
+  {
+    "filename": "exp11-first30-training-accuracy.png",
+    "cell_index": 82,
+    "output_index": 2,
+    "sha256": "f87b0c317f93dac92df778313b61ec35601974ddf591ca58772a935c8d0f565f"
+  },
+  {
+    "filename": "exp11-validation-confusion-matrix.png",
+    "cell_index": 86,
+    "output_index": 0,
+    "sha256": "2a14de21a4eb2026810c03dde1b09b0411868d8e86b6674aaaebbe0064732f13"
+  },
+  {
+    "filename": "model-validation-accuracy-comparison.png",
+    "cell_index": 118,
+    "output_index": 0,
+    "sha256": "950b3e74a599ff0c010f175c11a3cd8cfc24f171f7ef0e0ed93bc30567a46a02"
+  },
+  {
+    "filename": "model-validation-cross-entropy-comparison.png",
+    "cell_index": 119,
+    "output_index": 0,
+    "sha256": "b0cb97b4cbb1f0266cb73d19135c8959a564634e8be76b0c1181b31e375840ab"
+  },
+  {
+    "filename": "exp11-vs-exp14-cross-entropy.png",
+    "cell_index": 113,
+    "output_index": 1,
+    "sha256": "40ad9dcc3dc07bacb7afb103f4d15159142483654f560728a9734efde5bc4c66"
+  },
+  {
+    "filename": "exp08-validation-cat-dog-errors.png",
+    "cell_index": 61,
+    "output_index": 1,
+    "sha256": "e24f38760435c901b110551432e48c67786700fd1d230bae9d53387cc1a07283"
+  }
+]

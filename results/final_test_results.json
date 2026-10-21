@@ -1,0 +1,10 @@
+{
+    "model": "Experiment 11 - GlobalAveragePooling2D",
+    "dataset": "CIFAR-10",
+    "validation_accuracy": 0.8554,
+    "validation_loss": 0.4545,
+    "test_accuracy": 0.8493000268936157,
+    "test_loss": 0.48497647047042847,
+    "parameters": 304810,
+    "test_samples": 10000
+}
